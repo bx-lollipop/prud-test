@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Tasl:Baidu Search","case3:search result within 1 day","0","0","1","0","0"
+"","Tasl:Baidu Search","case1:set result page_size=20","0","0","1","0","0"
+"","Tasl:Baidu Search","case2:check ads","0","0","1","0","0"

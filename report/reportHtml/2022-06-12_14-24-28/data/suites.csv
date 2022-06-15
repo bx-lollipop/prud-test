@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 12 14:25:31 CST 2022","Sun Jun 12 14:25:40 CST 2022","9793","test_case","test_baidu","TestBaidu","","","test_03",""
+"passed","Sun Jun 12 14:25:17 CST 2022","Sun Jun 12 14:25:31 CST 2022","13080","test_case","test_baidu","TestBaidu","","","test_01",""
+"passed","Sun Jun 12 14:25:31 CST 2022","Sun Jun 12 14:25:31 CST 2022","49","test_case","test_baidu","TestBaidu","","","test_02",""
